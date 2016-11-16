@@ -1,2 +1,2 @@
-# ALG-leetcode-java
+# LAB-leetcode-java
 My solutions in Java for LeetCode problems
